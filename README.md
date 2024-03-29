@@ -1,1 +1,1 @@
-# Cognos_Dashboards
+# IBM Data Analyst Capstone Project
